@@ -2,5 +2,5 @@
 Installation
 apt update && apt upgade
 apt install git
-git clone 
+git clone https://github.com/Sidneywane/All-In-One-Tool.git
 bash AIO.sh
